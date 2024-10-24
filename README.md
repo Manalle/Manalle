@@ -1,7 +1,5 @@
 <h1 align="center">Hello👋, I'm Manal</h1>
-<h3 align="center">I'm a computer science student and Mathematics - Futur Data scientist</h3>
-
-- 📫 How to contact me **manaloumlil01@gmail.com**
+<h3 align="center">I'm a computer science student </h3>
 - 📍Paris , France
 
 
